@@ -1,24 +1,26 @@
 {
-  "totalSolved": 2,
+  "totalSolved": 3,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-29",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 0,
+    "medium": 1,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
     "LeetCode_Create_Grid_With_Exactly_One_Path": true,
-    "LeetCode_Smallest_Stable_Index_I": true
+    "LeetCode_Smallest_Stable_Index_I": true,
+    "LeetCode_Longest_Mountain_in_Array": true
   },
   "activityHistory": {
-    "2026-10-29": 2
+    "2026-10-29": 3
   },
   "todayProblems": [
     "Create Grid With Exactly One Path",
-    "Smallest Stable Index I"
+    "Smallest Stable Index I",
+    "Longest Mountain in Array"
   ]
 }
