@@ -1,12 +1,12 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 5,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-29",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
@@ -14,15 +14,17 @@
     "LeetCode_Create_Grid_With_Exactly_One_Path": true,
     "LeetCode_Smallest_Stable_Index_I": true,
     "LeetCode_Longest_Mountain_in_Array": true,
-    "LeetCode_Construct_Uniform_Parity_Array_I": true
+    "LeetCode_Construct_Uniform_Parity_Array_I": true,
+    "LeetCode_Maximum_Sum_of_Distinct_Subarrays_With_Length_K": true
   },
   "activityHistory": {
-    "2026-10-29": 4
+    "2026-10-29": 5
   },
   "todayProblems": [
     "Create Grid With Exactly One Path",
     "Smallest Stable Index I",
     "Longest Mountain in Array",
-    "Construct Uniform Parity Array I"
+    "Construct Uniform Parity Array I",
+    "Maximum Sum of Distinct Subarrays With Length K"
   ]
 }
