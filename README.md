@@ -5,3 +5,4 @@
 | 3 | [Longest Mountain in Array](./LeetCode/Medium/Longest%20Mountain%20in%20Array) | [LeetCode](https://leetcode.com/problems/longest-mountain-in-array/) | Medium | 29 Oct 2026 | 01:45 am |
 | 4 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 29 Oct 2026 | 01:47 pm |
 | 5 | [Maximum Sum of Distinct Subarrays With Length K](./LeetCode/Medium/Maximum%20Sum%20of%20Distinct%20Subarrays%20With%20Length%20K) | [LeetCode](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | Medium | 29 Oct 2026 | 02:51 pm |
+| 6 | [Length of Longest Subarray With at Most K Frequency](./LeetCode/Medium/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency) | [LeetCode](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Medium | 29 Oct 2026 | 09:45 pm |
