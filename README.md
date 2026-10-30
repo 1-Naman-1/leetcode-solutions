@@ -6,3 +6,4 @@
 | 4 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 29 Oct 2026 | 01:47 pm |
 | 5 | [Maximum Sum of Distinct Subarrays With Length K](./LeetCode/Medium/Maximum%20Sum%20of%20Distinct%20Subarrays%20With%20Length%20K) | [LeetCode](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | Medium | 29 Oct 2026 | 02:51 pm |
 | 6 | [Length of Longest Subarray With at Most K Frequency](./LeetCode/Medium/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency) | [LeetCode](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Medium | 29 Oct 2026 | 09:45 pm |
+| 7 | [Max Consecutive Ones III](./LeetCode/Medium/Max%20Consecutive%20Ones%20III) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | 30 Oct 2026 | 10:35 am |
