@@ -8,3 +8,4 @@
 | 6 | [Length of Longest Subarray With at Most K Frequency](./LeetCode/Medium/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency) | [LeetCode](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Medium | 29 Oct 2026 | 09:45 pm |
 | 7 | [Max Consecutive Ones III](./LeetCode/Medium/Max%20Consecutive%20Ones%20III) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | 30 Oct 2026 | 10:35 am |
 | 8 | [Longest Subarray With Restricted Pair Sums](./LeetCode/Medium/Longest%20Subarray%20With%20Restricted%20Pair%20Sums) | [LeetCode](https://leetcode.com/problems/longest-subarray-with-restricted-pair-sums/) | Medium | 31 Oct 2026 | 08:52 pm |
+| 9 | [Subarrays with Sum in Range](./GeeksForGeeks/Hard/Subarrays%20with%20Sum%20in%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-the-number-of-subarrays/1) | Hard | 31 Oct 2026 | 10:15 pm |
