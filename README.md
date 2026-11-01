@@ -9,3 +9,4 @@
 | 7 | [Max Consecutive Ones III](./LeetCode/Medium/Max%20Consecutive%20Ones%20III) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | 30 Oct 2026 | 10:35 am |
 | 8 | [Longest Subarray With Restricted Pair Sums](./LeetCode/Medium/Longest%20Subarray%20With%20Restricted%20Pair%20Sums) | [LeetCode](https://leetcode.com/problems/longest-subarray-with-restricted-pair-sums/) | Medium | 31 Oct 2026 | 08:52 pm |
 | 9 | [Subarrays with Sum in Range](./GeeksForGeeks/Hard/Subarrays%20with%20Sum%20in%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-the-number-of-subarrays/1) | Hard | 31 Oct 2026 | 10:15 pm |
+| 10 | [Minimum Operations to Sort With Locked Indices](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20With%20Locked%20Indices) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-with-locked-indices/) | Medium | 01 Nov 2026 | 03:36 pm |
