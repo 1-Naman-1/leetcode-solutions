@@ -1,12 +1,12 @@
 {
-  "totalSolved": 10,
-  "currentStreak": 4,
-  "maxStreak": 4,
-  "lastSyncDate": "2026-11-01",
+  "totalSolved": 11,
+  "currentStreak": 5,
+  "maxStreak": 5,
+  "lastSyncDate": "2026-11-02",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 6,
+    "medium": 7,
     "hard": 1,
     "basic": 0
   },
@@ -20,15 +20,17 @@
     "LeetCode_Max_Consecutive_Ones_III": true,
     "LeetCode_Longest_Subarray_With_Restricted_Pair_Sums": true,
     "GeeksForGeeks_Subarrays_with_Sum_in_Range": true,
-    "LeetCode_Minimum_Operations_to_Sort_With_Locked_Indices": true
+    "LeetCode_Minimum_Operations_to_Sort_With_Locked_Indices": true,
+    "LeetCode_Count_the_Number_of_Substrings_With_Dominant_Ones": true
   },
   "activityHistory": {
     "2026-10-29": 6,
     "2026-10-30": 1,
     "2026-10-31": 2,
-    "2026-11-01": 1
+    "2026-11-01": 1,
+    "2026-11-02": 1
   },
   "todayProblems": [
-    "Minimum Operations to Sort With Locked Indices"
+    "Count the Number of Substrings With Dominant Ones"
   ]
 }
