@@ -1,12 +1,12 @@
 {
-  "totalSolved": 12,
+  "totalSolved": 13,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-03",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 7,
+    "medium": 8,
     "hard": 2,
     "basic": 0
   },
@@ -22,7 +22,8 @@
     "GeeksForGeeks_Subarrays_with_Sum_in_Range": true,
     "LeetCode_Minimum_Operations_to_Sort_With_Locked_Indices": true,
     "LeetCode_Count_the_Number_of_Substrings_With_Dominant_Ones": true,
-    "LeetCode_Trapping_Rain_Water": true
+    "LeetCode_Trapping_Rain_Water": true,
+    "LeetCode_Range_Sum_of_Sorted_Subarray_Sums": true
   },
   "activityHistory": {
     "2026-10-29": 6,
@@ -30,9 +31,10 @@
     "2026-10-31": 2,
     "2026-11-01": 1,
     "2026-11-02": 1,
-    "2026-11-03": 1
+    "2026-11-03": 2
   },
   "todayProblems": [
-    "Trapping Rain Water"
+    "Trapping Rain Water",
+    "Range Sum of Sorted Subarray Sums"
   ]
 }
