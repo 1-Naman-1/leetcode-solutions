@@ -11,3 +11,4 @@
 | 9 | [Subarrays with Sum in Range](./GeeksForGeeks/Hard/Subarrays%20with%20Sum%20in%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-the-number-of-subarrays/1) | Hard | 31 Oct 2026 | 10:15 pm |
 | 10 | [Minimum Operations to Sort With Locked Indices](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20With%20Locked%20Indices) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-with-locked-indices/) | Medium | 01 Nov 2026 | 03:36 pm |
 | 11 | [Count the Number of Substrings With Dominant Ones](./LeetCode/Medium/Count%20the%20Number%20of%20Substrings%20With%20Dominant%20Ones) | [LeetCode](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) | Medium | 02 Nov 2026 | 08:10 pm |
+| 12 | [Trapping Rain Water](./LeetCode/Hard/Trapping%20Rain%20Water) | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) | Hard | 03 Nov 2026 | 02:47 pm |
