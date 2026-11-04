@@ -13,3 +13,4 @@
 | 11 | [Count the Number of Substrings With Dominant Ones](./LeetCode/Medium/Count%20the%20Number%20of%20Substrings%20With%20Dominant%20Ones) | [LeetCode](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) | Medium | 02 Nov 2026 | 08:10 pm |
 | 12 | [Trapping Rain Water](./LeetCode/Hard/Trapping%20Rain%20Water) | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) | Hard | 03 Nov 2026 | 02:47 pm |
 | 13 | [Range Sum of Sorted Subarray Sums](./LeetCode/Medium/Range%20Sum%20of%20Sorted%20Subarray%20Sums) | [LeetCode](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/) | Medium | 03 Nov 2026 | 09:14 pm |
+| 14 | [Minimum Moves to Equal Array Elements III](./LeetCode/Easy/Minimum%20Moves%20to%20Equal%20Array%20Elements%20III) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Easy | 04 Nov 2026 | 04:52 pm |
