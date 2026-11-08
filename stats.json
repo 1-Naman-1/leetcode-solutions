@@ -1,12 +1,12 @@
 {
-  "totalSolved": 16,
-  "currentStreak": 1,
+  "totalSolved": 17,
+  "currentStreak": 2,
   "maxStreak": 7,
-  "lastSyncDate": "2026-11-07",
-  "todayCount": 2,
+  "lastSyncDate": "2026-11-08",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 9,
+    "medium": 10,
     "hard": 2,
     "basic": 0
   },
@@ -26,7 +26,8 @@
     "LeetCode_Range_Sum_of_Sorted_Subarray_Sums": true,
     "LeetCode_Minimum_Moves_to_Equal_Array_Elements_III": true,
     "LeetCode_Word_Search": true,
-    "GeeksForGeeks_Max_Sum_Subarray_of_Size_K": true
+    "GeeksForGeeks_Max_Sum_Subarray_of_Size_K": true,
+    "LeetCode_Count_Valid_Substrings_II": true
   },
   "activityHistory": {
     "2026-10-29": 6,
@@ -36,10 +37,10 @@
     "2026-11-02": 1,
     "2026-11-03": 2,
     "2026-11-04": 1,
-    "2026-11-07": 2
+    "2026-11-07": 2,
+    "2026-11-08": 1
   },
   "todayProblems": [
-    "Word Search",
-    "Max Sum Subarray of Size K"
+    "Count Valid Substrings II"
   ]
 }
