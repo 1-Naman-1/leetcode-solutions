@@ -1,13 +1,13 @@
 {
-  "totalSolved": 17,
+  "totalSolved": 18,
   "currentStreak": 2,
   "maxStreak": 7,
   "lastSyncDate": "2026-11-08",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 5,
     "medium": 10,
-    "hard": 2,
+    "hard": 3,
     "basic": 0
   },
   "syncedProblems": {
@@ -27,7 +27,8 @@
     "LeetCode_Minimum_Moves_to_Equal_Array_Elements_III": true,
     "LeetCode_Word_Search": true,
     "GeeksForGeeks_Max_Sum_Subarray_of_Size_K": true,
-    "LeetCode_Count_Valid_Substrings_II": true
+    "LeetCode_Count_Valid_Substrings_II": true,
+    "LeetCode_Maximize_the_Minimum_Powered_City": true
   },
   "activityHistory": {
     "2026-10-29": 6,
@@ -38,9 +39,10 @@
     "2026-11-03": 2,
     "2026-11-04": 1,
     "2026-11-07": 2,
-    "2026-11-08": 1
+    "2026-11-08": 2
   },
   "todayProblems": [
-    "Count Valid Substrings II"
+    "Count Valid Substrings II",
+    "Maximize the Minimum Powered City"
   ]
 }

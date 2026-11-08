@@ -17,3 +17,4 @@
 | 15 | [Word Search](./LeetCode/Medium/Word%20Search) | [LeetCode](https://leetcode.com/problems/word-search/) | Medium | 07 Nov 2026 | 01:27 pm |
 | 16 | [Max Sum Subarray of Size K](./GeeksForGeeks/Easy/Max%20Sum%20Subarray%20of%20Size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1?utm_medium=article&utm_campaign=bottom_sticky_on_article&utm_source=gfg) | Easy | 07 Nov 2026 | 03:35 pm |
 | 17 | [Count Valid Substrings II](./LeetCode/Medium/Count%20Valid%20Substrings%20II) | [LeetCode](https://leetcode.com/problems/count-valid-substrings-ii/) | Medium | 08 Nov 2026 | 03:35 pm |
+| 18 | [Maximize the Minimum Powered City](./LeetCode/Hard/Maximize%20the%20Minimum%20Powered%20City) | [LeetCode](https://leetcode.com/problems/maximize-the-minimum-powered-city/) | Hard | 08 Nov 2026 | 04:54 pm |
