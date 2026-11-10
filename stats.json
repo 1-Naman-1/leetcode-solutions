@@ -1,12 +1,12 @@
 {
-  "totalSolved": 18,
-  "currentStreak": 2,
+  "totalSolved": 19,
+  "currentStreak": 1,
   "maxStreak": 7,
-  "lastSyncDate": "2026-11-08",
-  "todayCount": 2,
+  "lastSyncDate": "2026-11-10",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 10,
+    "medium": 11,
     "hard": 3,
     "basic": 0
   },
@@ -28,7 +28,8 @@
     "LeetCode_Word_Search": true,
     "GeeksForGeeks_Max_Sum_Subarray_of_Size_K": true,
     "LeetCode_Count_Valid_Substrings_II": true,
-    "LeetCode_Maximize_the_Minimum_Powered_City": true
+    "LeetCode_Maximize_the_Minimum_Powered_City": true,
+    "LeetCode_Bitwise_ORs_of_Subarrays": true
   },
   "activityHistory": {
     "2026-10-29": 6,
@@ -39,10 +40,10 @@
     "2026-11-03": 2,
     "2026-11-04": 1,
     "2026-11-07": 2,
-    "2026-11-08": 2
+    "2026-11-08": 2,
+    "2026-11-10": 1
   },
   "todayProblems": [
-    "Count Valid Substrings II",
-    "Maximize the Minimum Powered City"
+    "Bitwise ORs of Subarrays"
   ]
 }
