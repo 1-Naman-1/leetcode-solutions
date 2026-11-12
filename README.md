@@ -22,3 +22,4 @@
 | 20 | [Stable Subarrays With Equal Boundary and Interior Sum](./LeetCode/Medium/Stable%20Subarrays%20With%20Equal%20Boundary%20and%20Interior%20Sum) | [LeetCode](https://leetcode.com/problems/stable-subarrays-with-equal-boundary-and-interior-sum/) | Medium | 12 Nov 2026 | 02:43 am |
 | 21 | [Single Element in a Sorted Array](./LeetCode/Medium/Single%20Element%20in%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | 12 Nov 2026 | 10:52 am |
 | 22 | [Search in Rotated Sorted Array II](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array%20II) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | 12 Nov 2026 | 01:40 pm |
+| 23 | [Find Minimum in Rotated Sorted Array II](./LeetCode/Hard/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Hard | 12 Nov 2026 | 03:28 pm |
