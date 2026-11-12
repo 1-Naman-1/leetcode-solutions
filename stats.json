@@ -1,12 +1,12 @@
 {
-  "totalSolved": 20,
+  "totalSolved": 21,
   "currentStreak": 1,
   "maxStreak": 7,
   "lastSyncDate": "2026-11-12",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 12,
+    "medium": 13,
     "hard": 3,
     "basic": 0
   },
@@ -30,7 +30,8 @@
     "LeetCode_Count_Valid_Substrings_II": true,
     "LeetCode_Maximize_the_Minimum_Powered_City": true,
     "LeetCode_Bitwise_ORs_of_Subarrays": true,
-    "LeetCode_Stable_Subarrays_With_Equal_Boundary_and_Interior_Sum": true
+    "LeetCode_Stable_Subarrays_With_Equal_Boundary_and_Interior_Sum": true,
+    "LeetCode_Single_Element_in_a_Sorted_Array": true
   },
   "activityHistory": {
     "2026-10-29": 6,
@@ -43,9 +44,10 @@
     "2026-11-07": 2,
     "2026-11-08": 2,
     "2026-11-10": 1,
-    "2026-11-12": 1
+    "2026-11-12": 2
   },
   "todayProblems": [
-    "Stable Subarrays With Equal Boundary and Interior Sum"
+    "Stable Subarrays With Equal Boundary and Interior Sum",
+    "Single Element in a Sorted Array"
   ]
 }
