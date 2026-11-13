@@ -33,3 +33,4 @@
 | 31 | [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | 13 Nov 2026 | 08:49 pm |
 | 32 | [Longest Substring with K Uniques](./GeeksForGeeks/Medium/Longest%20Substring%20with%20K%20Uniques) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1?utm_medium=article&utm_campaign=bottom_sticky_on_article&utm_source=gfg) | Medium | 13 Nov 2026 | 08:53 pm |
 | 33 | [Subarrays with Sum K](./GeeksForGeeks/Medium/Subarrays%20with%20Sum%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1) | Medium | 13 Nov 2026 | 09:07 pm |
+| 34 | [Move All Zeroes to End](./GeeksForGeeks/Easy/Move%20All%20Zeroes%20to%20End) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1?utm_medium=article&utm_campaign=bottom_sticky_on_article&utm_source=gfg) | Easy | 13 Nov 2026 | 09:19 pm |
