@@ -26,3 +26,4 @@
 | 24 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./LeetCode/Easy/Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray) | [LeetCode](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | 12 Nov 2026 | 05:05 pm |
 | 25 | [Find Consecutive Integers from a Data Stream](./LeetCode/Medium/Find%20Consecutive%20Integers%20from%20a%20Data%20Stream) | [LeetCode](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/) | Medium | 12 Nov 2026 | 06:42 pm |
 | 26 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 13 Nov 2026 | 08:38 am |
+| 27 | [Arranging Coins](./LeetCode/Easy/Arranging%20Coins) | [LeetCode](https://leetcode.com/problems/arranging-coins/) | Easy | 13 Nov 2026 | 11:24 am |
