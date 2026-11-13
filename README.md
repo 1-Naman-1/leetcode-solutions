@@ -36,3 +36,4 @@
 | 34 | [Move All Zeroes to End](./GeeksForGeeks/Easy/Move%20All%20Zeroes%20to%20End) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1?utm_medium=article&utm_campaign=bottom_sticky_on_article&utm_source=gfg) | Easy | 13 Nov 2026 | 09:19 pm |
 | 35 | [Is Subsequence](./LeetCode/Easy/Is%20Subsequence) | [LeetCode](https://leetcode.com/problems/is-subsequence/) | Easy | 13 Nov 2026 | 09:52 pm |
 | 36 | [Check for Subsequence](./GeeksForGeeks/Easy/Check%20for%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/given-two-strings-find-if-first-string-is-a-subsequence-of-second/1?utm_medium=article&utm_campaign=bottom_sticky_on_article&utm_source=gfg) | Easy | 13 Nov 2026 | 10:23 pm |
+| 37 | [Maximum Product Subarray](./LeetCode/Medium/Maximum%20Product%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-product-subarray/) | Medium | 13 Nov 2026 | 10:57 pm |
