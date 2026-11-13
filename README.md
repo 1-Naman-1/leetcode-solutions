@@ -30,3 +30,4 @@
 | 28 | [Find Smallest Letter Greater Than Target](./LeetCode/Easy/Find%20Smallest%20Letter%20Greater%20Than%20Target) | [LeetCode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Easy | 13 Nov 2026 | 11:29 am |
 | 29 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 13 Nov 2026 | 05:30 pm |
 | 30 | [Median in a Row-Wise Sorted Matrix](./GeeksForGeeks/Medium/Median%20in%20a%20Row-Wise%20Sorted%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) | Medium | 13 Nov 2026 | 08:22 pm |
+| 31 | [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | 13 Nov 2026 | 08:49 pm |
