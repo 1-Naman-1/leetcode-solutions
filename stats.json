@@ -1,11 +1,11 @@
 {
-  "totalSolved": 28,
+  "totalSolved": 29,
   "currentStreak": 2,
   "maxStreak": 7,
   "lastSyncDate": "2026-11-13",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 8,
+    "easy": 9,
     "medium": 16,
     "hard": 4,
     "basic": 0
@@ -38,7 +38,8 @@
     "LeetCode_Find_Consecutive_Integers_from_a_Data_Stream": true,
     "LeetCode_Koko_Eating_Bananas": true,
     "LeetCode_Arranging_Coins": true,
-    "LeetCode_Find_Smallest_Letter_Greater_Than_Target": true
+    "LeetCode_Find_Smallest_Letter_Greater_Than_Target": true,
+    "LeetCode_Search_Insert_Position": true
   },
   "activityHistory": {
     "2026-10-29": 6,
@@ -52,11 +53,12 @@
     "2026-11-08": 2,
     "2026-11-10": 1,
     "2026-11-12": 6,
-    "2026-11-13": 3
+    "2026-11-13": 4
   },
   "todayProblems": [
     "Koko Eating Bananas",
     "Arranging Coins",
-    "Find Smallest Letter Greater Than Target"
+    "Find Smallest Letter Greater Than Target",
+    "Search Insert Position"
   ]
 }
