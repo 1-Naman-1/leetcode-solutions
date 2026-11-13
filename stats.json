@@ -1,12 +1,12 @@
 {
-  "totalSolved": 32,
+  "totalSolved": 33,
   "currentStreak": 2,
   "maxStreak": 7,
   "lastSyncDate": "2026-11-13",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 19,
+    "medium": 20,
     "hard": 4,
     "basic": 0
   },
@@ -42,7 +42,8 @@
     "LeetCode_Search_Insert_Position": true,
     "GeeksForGeeks_Median_in_a_Row-Wise_Sorted_Matrix": true,
     "LeetCode_Search_a_2D_Matrix": true,
-    "GeeksForGeeks_Longest_Substring_with_K_Uniques": true
+    "GeeksForGeeks_Longest_Substring_with_K_Uniques": true,
+    "GeeksForGeeks_Subarrays_with_Sum_K": true
   },
   "activityHistory": {
     "2026-10-29": 6,
@@ -56,7 +57,7 @@
     "2026-11-08": 2,
     "2026-11-10": 1,
     "2026-11-12": 6,
-    "2026-11-13": 7
+    "2026-11-13": 8
   },
   "todayProblems": [
     "Koko Eating Bananas",
@@ -65,6 +66,7 @@
     "Search Insert Position",
     "Median in a Row-Wise Sorted Matrix",
     "Search a 2D Matrix",
-    "Longest Substring with K Uniques"
+    "Longest Substring with K Uniques",
+    "Subarrays with Sum K"
   ]
 }
