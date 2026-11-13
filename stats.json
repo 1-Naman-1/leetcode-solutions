@@ -1,12 +1,12 @@
 {
-  "totalSolved": 25,
-  "currentStreak": 1,
+  "totalSolved": 26,
+  "currentStreak": 2,
   "maxStreak": 7,
-  "lastSyncDate": "2026-11-12",
-  "todayCount": 6,
+  "lastSyncDate": "2026-11-13",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 15,
+    "medium": 16,
     "hard": 4,
     "basic": 0
   },
@@ -35,7 +35,8 @@
     "LeetCode_Search_in_Rotated_Sorted_Array_II": true,
     "LeetCode_Find_Minimum_in_Rotated_Sorted_Array_II": true,
     "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true,
-    "LeetCode_Find_Consecutive_Integers_from_a_Data_Stream": true
+    "LeetCode_Find_Consecutive_Integers_from_a_Data_Stream": true,
+    "LeetCode_Koko_Eating_Bananas": true
   },
   "activityHistory": {
     "2026-10-29": 6,
@@ -48,14 +49,10 @@
     "2026-11-07": 2,
     "2026-11-08": 2,
     "2026-11-10": 1,
-    "2026-11-12": 6
+    "2026-11-12": 6,
+    "2026-11-13": 1
   },
   "todayProblems": [
-    "Stable Subarrays With Equal Boundary and Interior Sum",
-    "Single Element in a Sorted Array",
-    "Search in Rotated Sorted Array II",
-    "Find Minimum in Rotated Sorted Array II",
-    "Longest Strictly Increasing or Strictly Decreasing Subarray",
-    "Find Consecutive Integers from a Data Stream"
+    "Koko Eating Bananas"
   ]
 }
