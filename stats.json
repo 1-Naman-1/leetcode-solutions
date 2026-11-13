@@ -1,11 +1,11 @@
 {
-  "totalSolved": 35,
+  "totalSolved": 36,
   "currentStreak": 2,
   "maxStreak": 7,
   "lastSyncDate": "2026-11-13",
-  "todayCount": 10,
+  "todayCount": 11,
   "difficultyCounts": {
-    "easy": 11,
+    "easy": 12,
     "medium": 20,
     "hard": 4,
     "basic": 0
@@ -45,7 +45,8 @@
     "GeeksForGeeks_Longest_Substring_with_K_Uniques": true,
     "GeeksForGeeks_Subarrays_with_Sum_K": true,
     "GeeksForGeeks_Move_All_Zeroes_to_End": true,
-    "LeetCode_Is_Subsequence": true
+    "LeetCode_Is_Subsequence": true,
+    "GeeksForGeeks_Check_for_Subsequence": true
   },
   "activityHistory": {
     "2026-10-29": 6,
@@ -59,7 +60,7 @@
     "2026-11-08": 2,
     "2026-11-10": 1,
     "2026-11-12": 6,
-    "2026-11-13": 10
+    "2026-11-13": 11
   },
   "todayProblems": [
     "Koko Eating Bananas",
@@ -71,6 +72,7 @@
     "Longest Substring with K Uniques",
     "Subarrays with Sum K",
     "Move All Zeroes to End",
-    "Is Subsequence"
+    "Is Subsequence",
+    "Check for Subsequence"
   ]
 }
