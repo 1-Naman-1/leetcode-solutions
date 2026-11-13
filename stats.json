@@ -1,12 +1,12 @@
 {
-  "totalSolved": 31,
+  "totalSolved": 32,
   "currentStreak": 2,
   "maxStreak": 7,
   "lastSyncDate": "2026-11-13",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 18,
+    "medium": 19,
     "hard": 4,
     "basic": 0
   },
@@ -41,7 +41,8 @@
     "LeetCode_Find_Smallest_Letter_Greater_Than_Target": true,
     "LeetCode_Search_Insert_Position": true,
     "GeeksForGeeks_Median_in_a_Row-Wise_Sorted_Matrix": true,
-    "LeetCode_Search_a_2D_Matrix": true
+    "LeetCode_Search_a_2D_Matrix": true,
+    "GeeksForGeeks_Longest_Substring_with_K_Uniques": true
   },
   "activityHistory": {
     "2026-10-29": 6,
@@ -55,7 +56,7 @@
     "2026-11-08": 2,
     "2026-11-10": 1,
     "2026-11-12": 6,
-    "2026-11-13": 6
+    "2026-11-13": 7
   },
   "todayProblems": [
     "Koko Eating Bananas",
@@ -63,6 +64,7 @@
     "Find Smallest Letter Greater Than Target",
     "Search Insert Position",
     "Median in a Row-Wise Sorted Matrix",
-    "Search a 2D Matrix"
+    "Search a 2D Matrix",
+    "Longest Substring with K Uniques"
   ]
 }

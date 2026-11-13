@@ -31,3 +31,4 @@
 | 29 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 13 Nov 2026 | 05:30 pm |
 | 30 | [Median in a Row-Wise Sorted Matrix](./GeeksForGeeks/Medium/Median%20in%20a%20Row-Wise%20Sorted%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) | Medium | 13 Nov 2026 | 08:22 pm |
 | 31 | [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | 13 Nov 2026 | 08:49 pm |
+| 32 | [Longest Substring with K Uniques](./GeeksForGeeks/Medium/Longest%20Substring%20with%20K%20Uniques) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1?utm_medium=article&utm_campaign=bottom_sticky_on_article&utm_source=gfg) | Medium | 13 Nov 2026 | 08:53 pm |
