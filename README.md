@@ -37,3 +37,4 @@
 | 35 | [Is Subsequence](./LeetCode/Easy/Is%20Subsequence) | [LeetCode](https://leetcode.com/problems/is-subsequence/) | Easy | 13 Nov 2026 | 09:52 pm |
 | 36 | [Check for Subsequence](./GeeksForGeeks/Easy/Check%20for%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/given-two-strings-find-if-first-string-is-a-subsequence-of-second/1?utm_medium=article&utm_campaign=bottom_sticky_on_article&utm_source=gfg) | Easy | 13 Nov 2026 | 10:23 pm |
 | 37 | [Maximum Product Subarray](./LeetCode/Medium/Maximum%20Product%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-product-subarray/) | Medium | 13 Nov 2026 | 10:57 pm |
+| 38 | [Calculate Digit Sum of a String](./LeetCode/Easy/Calculate%20Digit%20Sum%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Easy | 16 Nov 2026 | 11:44 am |
