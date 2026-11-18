@@ -1,12 +1,12 @@
 {
-  "totalSolved": 42,
+  "totalSolved": 43,
   "currentStreak": 1,
   "maxStreak": 7,
   "lastSyncDate": "2026-11-18",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 25,
+    "medium": 26,
     "hard": 4,
     "basic": 0
   },
@@ -52,7 +52,8 @@
     "GeeksForGeeks_Counting_elements_in_two_arrays": true,
     "LeetCode_House_Robber_IV": true,
     "GeeksForGeeks_Aggressive_Cows": true,
-    "GeeksForGeeks_Allocate_Minimum_Pages": true
+    "GeeksForGeeks_Allocate_Minimum_Pages": true,
+    "LeetCode_Minimize_the_Maximum_Difference_of_Pairs": true
   },
   "activityHistory": {
     "2026-10-29": 6,
@@ -68,10 +69,11 @@
     "2026-11-12": 6,
     "2026-11-13": 12,
     "2026-11-16": 3,
-    "2026-11-18": 2
+    "2026-11-18": 3
   },
   "todayProblems": [
     "Aggressive Cows",
-    "Allocate Minimum Pages"
+    "Allocate Minimum Pages",
+    "Minimize the Maximum Difference of Pairs"
   ]
 }

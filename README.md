@@ -42,3 +42,4 @@
 | 40 | [House Robber IV](./LeetCode/Medium/House%20Robber%20IV) | [LeetCode](https://leetcode.com/problems/house-robber-iv/) | Medium | 16 Nov 2026 | 06:09 pm |
 | 41 | [Aggressive Cows](./GeeksForGeeks/Medium/Aggressive%20Cows) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | Medium | 18 Nov 2026 | 11:01 am |
 | 42 | [Allocate Minimum Pages](./GeeksForGeeks/Medium/Allocate%20Minimum%20Pages) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | Medium | 18 Nov 2026 | 11:41 am |
+| 43 | [Minimize the Maximum Difference of Pairs](./LeetCode/Medium/Minimize%20the%20Maximum%20Difference%20of%20Pairs) | [LeetCode](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | Medium | 18 Nov 2026 | 01:42 pm |
