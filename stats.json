@@ -1,12 +1,12 @@
 {
-  "totalSolved": 44,
+  "totalSolved": 45,
   "currentStreak": 1,
   "maxStreak": 7,
   "lastSyncDate": "2026-11-18",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 27,
+    "medium": 28,
     "hard": 4,
     "basic": 0
   },
@@ -54,7 +54,8 @@
     "GeeksForGeeks_Aggressive_Cows": true,
     "GeeksForGeeks_Allocate_Minimum_Pages": true,
     "LeetCode_Minimize_the_Maximum_Difference_of_Pairs": true,
-    "LeetCode_Minimum_Substring_Partition_of_Equal_Character_Frequency": true
+    "LeetCode_Minimum_Substring_Partition_of_Equal_Character_Frequency": true,
+    "LeetCode_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful": true
   },
   "activityHistory": {
     "2026-10-29": 6,
@@ -70,12 +71,13 @@
     "2026-11-12": 6,
     "2026-11-13": 12,
     "2026-11-16": 3,
-    "2026-11-18": 4
+    "2026-11-18": 5
   },
   "todayProblems": [
     "Aggressive Cows",
     "Allocate Minimum Pages",
     "Minimize the Maximum Difference of Pairs",
-    "Minimum Substring Partition of Equal Character Frequency"
+    "Minimum Substring Partition of Equal Character Frequency",
+    "Minimum Number of Changes to Make Binary String Beautiful"
   ]
 }
