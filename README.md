@@ -41,3 +41,4 @@
 | 39 | [Counting elements in two arrays](./GeeksForGeeks/Medium/Counting%20elements%20in%20two%20arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1?page=1&sortBy=submissions&category%5B%5D=Binary%2520Search) | Medium | 16 Nov 2026 | 04:46 pm |
 | 40 | [House Robber IV](./LeetCode/Medium/House%20Robber%20IV) | [LeetCode](https://leetcode.com/problems/house-robber-iv/) | Medium | 16 Nov 2026 | 06:09 pm |
 | 41 | [Aggressive Cows](./GeeksForGeeks/Medium/Aggressive%20Cows) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | Medium | 18 Nov 2026 | 11:01 am |
+| 42 | [Allocate Minimum Pages](./GeeksForGeeks/Medium/Allocate%20Minimum%20Pages) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | Medium | 18 Nov 2026 | 11:41 am |
