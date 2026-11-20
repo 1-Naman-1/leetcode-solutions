@@ -1,12 +1,12 @@
 {
-  "totalSolved": 46,
-  "currentStreak": 2,
+  "totalSolved": 47,
+  "currentStreak": 3,
   "maxStreak": 7,
-  "lastSyncDate": "2026-11-19",
+  "lastSyncDate": "2026-11-20",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 29,
+    "medium": 30,
     "hard": 4,
     "basic": 0
   },
@@ -56,7 +56,8 @@
     "LeetCode_Minimize_the_Maximum_Difference_of_Pairs": true,
     "LeetCode_Minimum_Substring_Partition_of_Equal_Character_Frequency": true,
     "LeetCode_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful": true,
-    "LeetCode_Minimum_Score_by_Changing_Two_Elements": true
+    "LeetCode_Minimum_Score_by_Changing_Two_Elements": true,
+    "LeetCode_Minimize_Maximum_of_Array": true
   },
   "activityHistory": {
     "2026-10-29": 6,
@@ -73,9 +74,10 @@
     "2026-11-13": 12,
     "2026-11-16": 3,
     "2026-11-18": 5,
-    "2026-11-19": 1
+    "2026-11-19": 1,
+    "2026-11-20": 1
   },
   "todayProblems": [
-    "Minimum Score by Changing Two Elements"
+    "Minimize Maximum of Array"
   ]
 }
