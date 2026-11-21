@@ -1,12 +1,12 @@
 {
-  "totalSolved": 48,
+  "totalSolved": 49,
   "currentStreak": 4,
   "maxStreak": 7,
   "lastSyncDate": "2026-11-21",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 31,
+    "medium": 32,
     "hard": 4,
     "basic": 0
   },
@@ -58,7 +58,8 @@
     "LeetCode_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful": true,
     "LeetCode_Minimum_Score_by_Changing_Two_Elements": true,
     "LeetCode_Minimize_Maximum_of_Array": true,
-    "LeetCode_Maximum_Value_at_a_Given_Index_in_a_Bounded_Array": true
+    "LeetCode_Maximum_Value_at_a_Given_Index_in_a_Bounded_Array": true,
+    "LeetCode_Maximize_Greatness_of_an_Array": true
   },
   "activityHistory": {
     "2026-10-29": 6,
@@ -77,9 +78,10 @@
     "2026-11-18": 5,
     "2026-11-19": 1,
     "2026-11-20": 1,
-    "2026-11-21": 1
+    "2026-11-21": 2
   },
   "todayProblems": [
-    "Maximum Value at a Given Index in a Bounded Array"
+    "Maximum Value at a Given Index in a Bounded Array",
+    "Maximize Greatness of an Array"
   ]
 }

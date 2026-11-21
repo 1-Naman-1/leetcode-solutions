@@ -48,3 +48,4 @@
 | 46 | [Minimum Score by Changing Two Elements](./LeetCode/Medium/Minimum%20Score%20by%20Changing%20Two%20Elements) | [LeetCode](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | Medium | 19 Nov 2026 | 05:36 pm |
 | 47 | [Minimize Maximum of Array](./LeetCode/Medium/Minimize%20Maximum%20of%20Array) | [LeetCode](https://leetcode.com/problems/minimize-maximum-of-array/) | Medium | 20 Nov 2026 | 07:24 pm |
 | 48 | [Maximum Value at a Given Index in a Bounded Array](./LeetCode/Medium/Maximum%20Value%20at%20a%20Given%20Index%20in%20a%20Bounded%20Array) | [LeetCode](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | Medium | 21 Nov 2026 | 05:07 pm |
+| 49 | [Maximize Greatness of an Array](./LeetCode/Medium/Maximize%20Greatness%20of%20an%20Array) | [LeetCode](https://leetcode.com/problems/maximize-greatness-of-an-array/) | Medium | 21 Nov 2026 | 07:32 pm |
