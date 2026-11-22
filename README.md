@@ -49,3 +49,4 @@
 | 47 | [Minimize Maximum of Array](./LeetCode/Medium/Minimize%20Maximum%20of%20Array) | [LeetCode](https://leetcode.com/problems/minimize-maximum-of-array/) | Medium | 20 Nov 2026 | 07:24 pm |
 | 48 | [Maximum Value at a Given Index in a Bounded Array](./LeetCode/Medium/Maximum%20Value%20at%20a%20Given%20Index%20in%20a%20Bounded%20Array) | [LeetCode](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | Medium | 21 Nov 2026 | 05:07 pm |
 | 49 | [Maximize Greatness of an Array](./LeetCode/Medium/Maximize%20Greatness%20of%20an%20Array) | [LeetCode](https://leetcode.com/problems/maximize-greatness-of-an-array/) | Medium | 21 Nov 2026 | 07:32 pm |
+| 50 | [Check if All A's Appears Before All B's](./LeetCode/Easy/Check%20if%20All%20A's%20Appears%20Before%20All%20B's) | [LeetCode](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | Easy | 22 Nov 2026 | 03:17 pm |
