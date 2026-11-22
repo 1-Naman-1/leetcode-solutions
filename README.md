@@ -51,3 +51,4 @@
 | 49 | [Maximize Greatness of an Array](./LeetCode/Medium/Maximize%20Greatness%20of%20an%20Array) | [LeetCode](https://leetcode.com/problems/maximize-greatness-of-an-array/) | Medium | 21 Nov 2026 | 07:32 pm |
 | 50 | [Check if All A's Appears Before All B's](./LeetCode/Easy/Check%20if%20All%20A's%20Appears%20Before%20All%20B's) | [LeetCode](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | Easy | 22 Nov 2026 | 03:17 pm |
 | 51 | [Minimum Cost to Delete Array](./LeetCode/Hard/Minimum%20Cost%20to%20Delete%20Array) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-delete-array/) | Hard | 22 Nov 2026 | 06:43 pm |
+| 52 | [Minimum Time to Complete Trips](./LeetCode/Medium/Minimum%20Time%20to%20Complete%20Trips) | [LeetCode](https://leetcode.com/problems/minimum-time-to-complete-trips/) | Medium | 22 Nov 2026 | 10:10 pm |
