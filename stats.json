@@ -1,12 +1,12 @@
 {
-  "totalSolved": 52,
-  "currentStreak": 5,
+  "totalSolved": 53,
+  "currentStreak": 6,
   "maxStreak": 7,
-  "lastSyncDate": "2026-11-22",
-  "todayCount": 3,
+  "lastSyncDate": "2026-11-23",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 14,
-    "medium": 33,
+    "medium": 34,
     "hard": 5,
     "basic": 0
   },
@@ -62,7 +62,8 @@
     "LeetCode_Maximize_Greatness_of_an_Array": true,
     "LeetCode_Check_if_All_A's_Appears_Before_All_B's": true,
     "LeetCode_Minimum_Cost_to_Delete_Array": true,
-    "LeetCode_Minimum_Time_to_Complete_Trips": true
+    "LeetCode_Minimum_Time_to_Complete_Trips": true,
+    "LeetCode_Minimum_Operations_to_Make_Mountain_Array_I": true
   },
   "activityHistory": {
     "2026-10-29": 6,
@@ -82,11 +83,10 @@
     "2026-11-19": 1,
     "2026-11-20": 1,
     "2026-11-21": 2,
-    "2026-11-22": 3
+    "2026-11-22": 3,
+    "2026-11-23": 1
   },
   "todayProblems": [
-    "Check if All A's Appears Before All B's",
-    "Minimum Cost to Delete Array",
-    "Minimum Time to Complete Trips"
+    "Minimum Operations to Make Mountain Array I"
   ]
 }

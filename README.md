@@ -52,3 +52,4 @@
 | 50 | [Check if All A's Appears Before All B's](./LeetCode/Easy/Check%20if%20All%20A's%20Appears%20Before%20All%20B's) | [LeetCode](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | Easy | 22 Nov 2026 | 03:17 pm |
 | 51 | [Minimum Cost to Delete Array](./LeetCode/Hard/Minimum%20Cost%20to%20Delete%20Array) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-delete-array/) | Hard | 22 Nov 2026 | 06:43 pm |
 | 52 | [Minimum Time to Complete Trips](./LeetCode/Medium/Minimum%20Time%20to%20Complete%20Trips) | [LeetCode](https://leetcode.com/problems/minimum-time-to-complete-trips/) | Medium | 22 Nov 2026 | 10:10 pm |
+| 53 | [Minimum Operations to Make Mountain Array I](./LeetCode/Medium/Minimum%20Operations%20to%20Make%20Mountain%20Array%20I) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-make-mountain-array-i/) | Medium | 23 Nov 2026 | 12:17 am |
