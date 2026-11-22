@@ -1,13 +1,13 @@
 {
-  "totalSolved": 50,
+  "totalSolved": 51,
   "currentStreak": 5,
   "maxStreak": 7,
   "lastSyncDate": "2026-11-22",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 14,
     "medium": 32,
-    "hard": 4,
+    "hard": 5,
     "basic": 0
   },
   "syncedProblems": {
@@ -60,7 +60,8 @@
     "LeetCode_Minimize_Maximum_of_Array": true,
     "LeetCode_Maximum_Value_at_a_Given_Index_in_a_Bounded_Array": true,
     "LeetCode_Maximize_Greatness_of_an_Array": true,
-    "LeetCode_Check_if_All_A's_Appears_Before_All_B's": true
+    "LeetCode_Check_if_All_A's_Appears_Before_All_B's": true,
+    "LeetCode_Minimum_Cost_to_Delete_Array": true
   },
   "activityHistory": {
     "2026-10-29": 6,
@@ -80,9 +81,10 @@
     "2026-11-19": 1,
     "2026-11-20": 1,
     "2026-11-21": 2,
-    "2026-11-22": 1
+    "2026-11-22": 2
   },
   "todayProblems": [
-    "Check if All A's Appears Before All B's"
+    "Check if All A's Appears Before All B's",
+    "Minimum Cost to Delete Array"
   ]
 }
