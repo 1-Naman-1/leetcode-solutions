@@ -53,3 +53,4 @@
 | 51 | [Minimum Cost to Delete Array](./LeetCode/Hard/Minimum%20Cost%20to%20Delete%20Array) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-delete-array/) | Hard | 22 Nov 2026 | 06:43 pm |
 | 52 | [Minimum Time to Complete Trips](./LeetCode/Medium/Minimum%20Time%20to%20Complete%20Trips) | [LeetCode](https://leetcode.com/problems/minimum-time-to-complete-trips/) | Medium | 22 Nov 2026 | 10:10 pm |
 | 53 | [Minimum Operations to Make Mountain Array I](./LeetCode/Medium/Minimum%20Operations%20to%20Make%20Mountain%20Array%20I) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-make-mountain-array-i/) | Medium | 23 Nov 2026 | 12:17 am |
+| 54 | [Maximum Subarray With Equal Products](./LeetCode/Easy/Maximum%20Subarray%20With%20Equal%20Products) | [LeetCode](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | Easy | 24 Nov 2026 | 06:08 pm |
