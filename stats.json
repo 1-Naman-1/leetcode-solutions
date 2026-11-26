@@ -1,11 +1,11 @@
 {
-  "totalSolved": 54,
-  "currentStreak": 7,
+  "totalSolved": 55,
+  "currentStreak": 1,
   "maxStreak": 7,
-  "lastSyncDate": "2026-11-24",
+  "lastSyncDate": "2026-11-26",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 15,
+    "easy": 16,
     "medium": 34,
     "hard": 5,
     "basic": 0
@@ -64,7 +64,8 @@
     "LeetCode_Minimum_Cost_to_Delete_Array": true,
     "LeetCode_Minimum_Time_to_Complete_Trips": true,
     "LeetCode_Minimum_Operations_to_Make_Mountain_Array_I": true,
-    "LeetCode_Maximum_Subarray_With_Equal_Products": true
+    "LeetCode_Maximum_Subarray_With_Equal_Products": true,
+    "LeetCode_Stone_Removal_Game": true
   },
   "activityHistory": {
     "2026-10-29": 6,
@@ -86,9 +87,10 @@
     "2026-11-21": 2,
     "2026-11-22": 3,
     "2026-11-23": 1,
-    "2026-11-24": 1
+    "2026-11-24": 1,
+    "2026-11-26": 1
   },
   "todayProblems": [
-    "Maximum Subarray With Equal Products"
+    "Stone Removal Game"
   ]
 }
